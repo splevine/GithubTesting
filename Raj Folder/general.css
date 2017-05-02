@@ -1,0 +1,19 @@
+
+
+h1 {  
+	color: #11e502;
+ 	text-align: center;
+ 	font: italic 200% fantasy;
+   }
+
+ul {
+ 	background-color: #f2f91d;
+ 	color: #333300;
+ 	text-align: left;
+ 	border: 3px groove #FFFF33;
+   }
+
+li {
+	color: #0774f9;
+
+   } 
